@@ -1,0 +1,25 @@
+{
+    "name": "whatsapp-cloudapi-quick-start",
+    "version": "1.0.0",
+    "description": "An example webhook for WhatsApp Cloud API quick start tutorial.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "WhatsApp",
+    "license": "ISC",
+    "dependencies": {
+        "@google-cloud/dialogflow-cx": "^3.1.2",
+        "axios": "^0.27.2",
+        "body-parser": "^1.20.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.1",
+        "pdfkit": "^0.13.0",
+        "randomstring": "^1.2.3",
+        "rate-limiter-flexible": "^2.4.1",
+        "request": "^2.88.2"
+    },
+    "engines": {
+        "node": "12.x"
+    }
+}
