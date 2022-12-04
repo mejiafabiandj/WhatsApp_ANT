@@ -17,7 +17,8 @@
         "pdfkit": "^0.13.0",
         "randomstring": "^1.2.3",
         "rate-limiter-flexible": "^2.4.1",
-        "request": "^2.88.2"
+        "request": "^2.88.2",
+        "tedious": "^15.1.2"
     },
     "engines": {
         "node": "12.x"
